@@ -1,6 +1,5 @@
 # Marksheet
-MARKSHEET  using html , css and javascript.
-
+MARKSHEET created using HTML, CSS, and JavaScript with the Bootstrap framework.
 
 
 
